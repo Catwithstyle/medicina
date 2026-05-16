@@ -19,7 +19,7 @@ const promotionsEs = [
     },
     {
         id: 3,
-        title: "Anti-Manchas",
+        title: "Despigmentante",
         discount: "15% OFF",
         description: "Corrección de manchas y tono desigual para una piel más uniforme.",
         image: images.promotions.antiManchas,
@@ -43,9 +43,9 @@ const promotionsEs = [
     },
     {
         id: 6,
-        title: "Bótox + Valoración",
+        title: "Toxina Botulínica + Valoración",
         discount: "20% OFF",
-        description: "Aplicación de bótox con valoración personalizada para resultados naturales.",
+        description: "Aplicación de toxina botulínica con valoración personalizada para resultados naturales.",
         image: images.promotions.botoxValoracion,
         color: "from-sky-500 to-indigo-500"
     },
@@ -126,7 +126,7 @@ const promotionsEn = [
     },
     {
         id: 3,
-        title: "Anti-Spots",
+        title: "Depigmenting",
         discount: "15% OFF",
         description: "Correction of spots and uneven tone for more uniform skin.",
         image: images.promotions.antiManchas,
@@ -150,9 +150,9 @@ const promotionsEn = [
     },
     {
         id: 6,
-        title: "Botox + Consultation",
+        title: "Botulinum Toxin + Consultation",
         discount: "20% OFF",
-        description: "Botox application with personalized assessment for natural results.",
+        description: "Botulinum toxin application with personalized assessment for natural results.",
         image: images.promotions.botoxValoracion,
         color: "from-sky-500 to-indigo-500"
     },

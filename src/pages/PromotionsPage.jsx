@@ -116,8 +116,8 @@ export default function PromotionsPage() {
         <>
             <SEO
                 title="Promociones Especiales - Ginecología y Estética"
-                description="Promociones exclusivas en tratamientos estéticos y ginecológicos. Descuentos en botox, ácido hialurónico, depilación láser, HydraFacial, HIFU facial y más. Ofertas limitadas en Managua."
-                keywords="promociones estética Managua, ofertas ginecología Managua, descuentos botox Managua, promociones ácido hialurónico Managua, ofertas depilación láser Managua, promociones HydraFacial Managua"
+                description="Promociones exclusivas en tratamientos estéticos y ginecológicos. Descuentos en toxina botulínica, ácido hialurónico, depilación láser, HydraFacial, HIFU facial y más. Ofertas limitadas en Managua."
+                keywords="promociones estética Managua, ofertas ginecología Managua, descuentos toxina botulínica Managua, promociones ácido hialurónico Managua, ofertas depilación láser Managua, promociones HydraFacial Managua"
                 image={promoImage}
             />
             <main className="pt-20 min-h-screen bg-gradient-to-br from-gray-50 via-pink-50/30 to-purple-50/30 dark:from-gray-950 dark:via-gray-900 dark:to-gray-950 overflow-hidden flex flex-col items-center justify-center relative transition-colors duration-300">

@@ -136,7 +136,7 @@ const servicesEs = [
         id: 'botox',
         category: 'estetico',
         image: images.services.botox,
-        title: "Bótox",
+        title: "Toxina Botulínica",
         description: "Rejuvenecimiento y relajación de líneas de expresión. Tratamiento estético que utiliza toxina botulínica para suavizar arrugas dinámicas.",
         details: "Rejuvenecimiento y relajación de líneas de expresión. Tratamiento estético que utiliza toxina botulínica para suavizar arrugas dinámicas, prevenir su aparición y lograr un rostro más descansado y natural, sin perder expresión.\n\nBeneficios:\n✔️ Reduce líneas de expresión y arrugas\n✔️ Previene nuevas arrugas dinámicas\n✔️ Resultados naturales y armoniosos\n✔️ Procedimiento rápido y mínimamente invasivo\n✔️ Sin tiempo de recuperación significativo"
     },
@@ -350,7 +350,7 @@ const servicesEn = [
         id: 'botox',
         category: 'estetico',
         image: images.services.botox,
-        title: "Botox",
+        title: "Toxina Botulínica",
         description: "Rejuvenation and relaxation of expression lines. Aesthetic treatment that uses botulinum toxin to smooth dynamic wrinkles.",
         details: "Rejuvenation and relaxation of expression lines. Aesthetic treatment that uses botulinum toxin to smooth dynamic wrinkles, prevent their appearance, and achieve a more rested and natural face, without losing expression.\n\nBenefits:\n✔️ Reduces expression lines and wrinkles\n✔️ Prevents new dynamic wrinkles\n✔️ Natural and harmonious results\n✔️ Fast and minimally invasive procedure\n✔️ No significant recovery time"
     },

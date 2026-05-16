@@ -2,10 +2,10 @@
 // Usando imports directos para asegurar que Vite las procese correctamente.
 
 // Hero Images
-import heroSlide1 from '../assets/images/inicio/GInecoInicio.webp';
+import heroSlide1 from '../assets/images/inicio/gineco.jpg';
 import heroSlide2 from '../assets/images/inicio/GinecoInicioFotos.webp';
-import heroSlide3 from '../assets/images/inicio/EsteticaInicio.webp';
-import heroSlide4 from '../assets/images/inicio/EsteticaInicioFoto.webp';
+import heroSlide3 from '../assets/images/inicio/estetica.jpg';
+import heroSlide4 from '../assets/images/inicio/esteticainicio.jpg';
 
 // WhatsApp Image
 import whatsappImage from '../assets/images/inicio/WhatsApp Image 2026-01-24 at 4.50.19 PM.webp';

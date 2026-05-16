@@ -29,8 +29,8 @@ export default function ServicesPage() {
         <>
             <SEO
                 title="Servicios de Ginecología y Estética"
-                description="Servicios especializados en ginecología y estética facial. Botox, ácido hialurónico, depilación láser, HydraFacial, HIFU facial, diagnóstico facial con IA, limpieza profunda y más tratamientos estéticos en Managua."
-                keywords="servicios ginecología Managua, tratamientos estéticos Managua, botox Managua, depilación láser Managua, HydraFacial Managua, HIFU facial Managua, diagnóstico facial Managua, limpieza facial Managua"
+                description="Servicios especializados en ginecología y estética facial. Toxina botulínica, ácido hialurónico, depilación láser, HydraFacial, HIFU facial, diagnóstico facial con IA, limpieza profunda y más tratamientos estéticos en Managua."
+                keywords="servicios ginecología Managua, tratamientos estéticos Managua, toxina botulínica Managua, depilación láser Managua, HydraFacial Managua, HIFU facial Managua, diagnóstico facial Managua, limpieza facial Managua"
             />
             <div className="pt-28 md:pt-32 pb-12 min-h-screen bg-gray-50 dark:bg-gray-900 transition-colors duration-300">
                 <div className="container mx-auto px-4 md:px-6">

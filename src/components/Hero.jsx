@@ -103,11 +103,11 @@ export default function Hero() {
                         <div className="flex flex-wrap gap-4 md:gap-6 pt-2 animate-fade-in-up" style={{ animationDelay: '0.5s' }}>
                             <div className="flex items-center gap-2 bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm rounded-xl px-3 py-2 border border-gray-200/50 dark:border-gray-700/50 shadow-soft">
                                 <Award className="w-4 h-4 text-primary" />
-                                <span className="text-sm font-semibold text-gray-700 dark:text-gray-300">10+ Años</span>
+                                <span className="text-sm font-semibold text-gray-700 dark:text-gray-300">15+ Años</span>
                             </div>
                             <div className="flex items-center gap-2 bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm rounded-xl px-3 py-2 border border-gray-200/50 dark:border-gray-700/50 shadow-soft">
                                 <Users className="w-4 h-4 text-primary" />
-                                <span className="text-sm font-semibold text-gray-700 dark:text-gray-300">2k+ Pacientes</span>
+                                <span className="text-sm font-semibold text-gray-700 dark:text-gray-300">Miles Pacientes</span>
                             </div>
                             <div className="flex items-center gap-2 bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm rounded-xl px-3 py-2 border border-gray-200/50 dark:border-gray-700/50 shadow-soft">
                                 <Star className="w-4 h-4 text-yellow-500 fill-yellow-500" />

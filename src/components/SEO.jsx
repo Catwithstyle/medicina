@@ -16,7 +16,7 @@ export default function SEO({
 
     const defaultTitle = 'Dra. Virginia Fonseca - Ginecología y Estética | Managua';
     const defaultDescription = 'Dra. Virginia Fonseca - Especialista en Ginecología y Obstetricia. Servicios ginecológicos y estéticos con tecnología de vanguardia y atención personalizada en Managua.';
-    const defaultKeywords = 'Dra. Virginia Fonseca, ginecología, obstetricia, ginecología estética, consulta ginecológica, Managua, ginecólogo Managua, estética facial, botox, ácido hialurónico, depilación láser';
+    const defaultKeywords = 'Dra. Virginia Fonseca, ginecología, obstetricia, ginecología estética, consulta ginecológica, Managua, ginecólogo Managua, estética facial, toxina botulínica, ácido hialurónico, depilación láser';
     const defaultImage = `${baseUrl}/images/og-image.jpg`;
 
     const finalTitle = title ? `${title} | Dra. Virginia Fonseca` : defaultTitle;
@@ -98,10 +98,10 @@ export default function SEO({
             name: 'Dra. Virginia Fonseca',
             description: finalDescription,
             url: baseUrl,
-            telephone: '+50589565361',
+            telephone: '+50575293550',
             address: {
                 '@type': 'PostalAddress',
-                streetAddress: 'K. 9.8 Carretera Masaya, Oficentro Metropolitano',
+                streetAddress: 'Hospital Vivian Pellas, Torre Sur, 4to Piso, Ginecología y Obstetricia',
                 addressLocality: 'Managua',
                 addressRegion: 'Managua',
                 addressCountry: 'NI'

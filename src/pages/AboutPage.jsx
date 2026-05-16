@@ -8,7 +8,7 @@ export default function AboutPage() {
         <>
             <SEO
                 title="Sobre Nosotros - Dra. Virginia"
-                description="Conoce a la Dra. Virginia, especialista en Ginecología y Obstetricia con más de 10 años de experiencia. Atención personalizada y tecnología de vanguardia en Managua."
+                description="Conoce a la Dra. Virginia, especialista en Ginecología y Obstetricia con más de 15 años de experiencia. Atención personalizada y tecnología de vanguardia en Managua."
                 keywords="Dra. Virginia, ginecólogo Managua, médico ginecólogo Managua, especialista ginecología Managua, doctora ginecología Managua"
             />
             <main className="flex-grow pt-28 md:pt-32 bg-gray-50 dark:bg-gray-800 min-h-screen relative z-0">

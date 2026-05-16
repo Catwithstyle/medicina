@@ -69,8 +69,9 @@ export default function Footer() {
                                     <MapPin className="w-5 h-5 text-primary" />
                                 </div>
                                 <span className="leading-relaxed">
-                                    K. 9.8 Carretera Masaya<br />
-                                    Oficentro Metropolitano<br />
+                                    Hospital Vivian Pellas<br />
+                                    Torre Sur, 4to Piso<br />
+                                    Ginecología y Obstetricia<br />
                                     Managua
                                 </span>
                             </div>
@@ -81,8 +82,8 @@ export default function Footer() {
                                     </div>
                                     <div className="flex flex-col">
                                         <span className="text-xs text-gray-500 uppercase font-bold tracking-wider">Ginecología</span>
-                                        <a href="tel:+50589565361" className="hover:text-primary transition-colors font-medium">
-                                            +505 8956 5361
+                                        <a href="tel:+50575293550" className="hover:text-primary transition-colors font-medium">
+                                            +505 7529 3550
                                         </a>
                                     </div>
                                 </div>
@@ -162,21 +163,21 @@ export default function Footer() {
                                 <span className="text-sm">WhatsApp Estética</span>
                             </a>
                             <a
-                                href="https://www.instagram.com/gynelaserclinicaestetica/"
+                                href="https://wa.me/50575293550"
                                 target="_blank"
                                 rel="noopener noreferrer"
-                                className="p-4 bg-white/10 hover:bg-primary rounded-xl shadow-lg hover:scale-105 hover:shadow-glow transition-all duration-300 group flex items-center gap-3"
-                                aria-label="Instagram"
+                                className="p-4 bg-white/10 hover:bg-[#25D366] rounded-xl shadow-lg hover:scale-105 hover:shadow-glow transition-all duration-300 group flex items-center gap-3"
+                                aria-label="WhatsApp Torre Sur, Hospital Vivian Pellas Ginecología"
                             >
-                                <Instagram className="w-5 h-5 group-hover:scale-110 transition-transform flex-shrink-0" />
-                                <span className="text-sm">Instagram</span>
+                                <MessageCircle className="w-5 h-5 group-hover:scale-110 transition-transform flex-shrink-0" />
+                                <span className="text-sm">WhatsApp Torre Sur, Hospital Vivian Pellas Ginecología</span>
                             </a>
                         </div>
                         <div className="pt-6 border-t border-white/10">
                             <p className="text-gray-300 text-sm md:text-base font-semibold mb-3">Horarios de Atención</p>
                             <div className="space-y-2">
                                 <p className="text-gray-400 text-xs md:text-sm">Lunes a Viernes: <span className="text-gray-300 font-medium">8:00 AM - 4:00 PM</span></p>
-                                <p className="text-gray-400 text-xs md:text-sm">Sábados: <span className="text-gray-300 font-medium">8:00 AM - 12:00 PM</span></p>
+                                <p className="text-gray-400 text-xs md:text-sm">Sábados: <span className="text-gray-300 font-medium">8:00 AM - 1:00 PM</span></p>
                             </div>
                         </div>
                     </div>

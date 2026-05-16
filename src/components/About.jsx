@@ -14,8 +14,8 @@ export default function About() {
     };
 
     const achievements = [
-        { icon: <Award />, number: "10+", label: t('about.stats.experience') },
-        { icon: <Users />, number: "2k+", label: t('about.stats.patients') },
+        { icon: <Award />, number: "15+", label: t('about.stats.experience') },
+        { icon: <Users />, number: "Miles", label: t('about.stats.patients') },
         { icon: <Heart />, number: "100%", label: t('about.stats.commitment') },
     ];
 

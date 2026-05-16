@@ -40,7 +40,7 @@ export const translations = {
                 },
                 {
                     title: "Experiencia Comprobada",
-                    description: "Más de 10 años de experiencia y miles de pacientes satisfechas."
+                    description: "Más de 15 años de experiencia y miles de pacientes atendidas."
                 },
                 {
                     title: "Tecnología Avanzada",
@@ -58,7 +58,7 @@ export const translations = {
         about: {
             title_small: 'Sobre Nosotros',
             title_main: 'Tu Salud en Manos Expertas',
-            bio_p1: 'Soy la **Dra. Virginia Fonseca**, especialista en ginecología y obstetricia con más de 10 años de experiencia. Mi misión es brindarte un espacio seguro, confidencial y de confianza donde puedas atender tu salud íntima con total tranquilidad.',
+            bio_p1: 'Soy la **Dra. Virginia Fonseca**, especialista en ginecología y obstetricia con más de 15 años de experiencia. Mi misión es brindarte un espacio seguro, confidencial y de confianza donde puedas atender tu salud íntima con total tranquilidad.',
             bio_p2: 'Entiendo que cada mujer es única, por eso ofrezco un trato completamente personalizado, escuchando tus necesidades, respetando tus decisiones y brindándote las mejores opciones médicas con calidez humana y profesionalismo.',
             mission_vision: {
                 mission_title: "Misión",
@@ -179,7 +179,7 @@ export const translations = {
                 },
                 {
                     title: "Proven Experience",
-                    description: "More than 10 years of experience and thousands of satisfied patients."
+                    description: "More than 15 years of experience and thousands of patients treated."
                 },
                 {
                     title: "Advanced Technology",
@@ -197,7 +197,7 @@ export const translations = {
         about: {
             title_small: 'About Us',
             title_main: 'Your Health in Expert Hands',
-            bio_p1: 'I am **Dr. Virginia**, a specialist in gynecology and obstetrics with over 10 years of experience. My mission is to provide you with a safe, confidential, and trustworthy space where you can attend to your intimate health with total peace of mind.',
+            bio_p1: 'I am **Dr. Virginia**, a specialist in gynecology and obstetrics with over 15 years of experience. My mission is to provide you with a safe, confidential, and trustworthy space where you can attend to your intimate health with total peace of mind.',
             bio_p2: 'I understand that every woman is unique, which is why I offer completely personalized treatment, listening to your needs, respecting your decisions, and providing you with the best medical options with human warmth and professionalism.',
             mission_vision: {
                 mission_title: "Mission",
